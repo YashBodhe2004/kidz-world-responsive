@@ -1,1 +1,1 @@
-# kidz-world-responsive
+# kidz-world-html-boilerplate
